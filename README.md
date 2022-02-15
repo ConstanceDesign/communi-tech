@@ -1,2 +1,2 @@
-# communi-tech
-A tech news website where users can post, upvote, and comment on links to news articles.
+# go-candidates
+A database that contains the candidates table for a voting app.
